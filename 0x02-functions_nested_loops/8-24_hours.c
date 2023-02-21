@@ -1,6 +1,13 @@
 #include "main.h"
 
-int a, b, c, d;
+/**
+ * jack_bauer - Prints the minutes of a day
+ *
+ * Return: no return
+ */
+void jack_bauer(void)
+{
+	int a, b, c, d;
 
 	for (a = 48; a <= 50; a++)
 	{
